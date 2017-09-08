@@ -1,0 +1,25 @@
+body{
+   background: rgba(76, 175, 80, 0.1)
+}
+#myname {Color:pink; background-color: purple;font-family: 'Indie Flower', cursive;
+}
+.headline {Color:pink; background-color: purple;
+}
+h2 {
+  color:purple;
+background:pink
+}
+
+.img-circle {
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px grey;
+  }
+  blockquote{
+    color:pink
+  }
+  .intro{color: purple; font-style: italic;}
+
+  li {color: Green;
+}
+
+}
